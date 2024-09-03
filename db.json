@@ -1,14 +1,6 @@
-import { Component } from '@angular/core';
-import { Product } from '../product';
-
-@Component({
-  selector: 'app-product',
-  templateUrl: './product.component.html',
-  styleUrl: './product.component.css'
-})
-export class ProductComponent {
-  products : Product[] = [
-    {"id": 1, 
+{
+  "products":[
+  {"id": 1, 
     "name": "Fone", 
     "price": 100,
     "category": "Eletrônico"
@@ -27,8 +19,6 @@ export class ProductComponent {
     "name": "Camiseta", 
     "price": 40,
     "category": "Vestuário"
-  },
-
-  ];
-
+  }
+]
 }
