@@ -1,24 +1,23 @@
 {
-  "products":[
-  {"id": 1, 
-    "name": "Fone", 
-    "price": 100,
-    "category": "Eletrônico"
-  },
-  {"id": 2, 
-    "name": "Celular", 
-    "price": 2000,
-    "category": "Eletrônico"
-  },
-  {"id": 3, 
-    "name": "Açaí", 
-    "price": 20,
-    "category": "Alimento"
-  },
-  {"id": 4, 
-    "name": "Camiseta", 
-    "price": 40,
-    "category": "Vestuário"
-  }
-]
+  "products": [
+    {
+      "id": 1,
+      "name": "Fone",
+      "price": 100,
+      "category": "Eletrônico"
+    },
+    {
+      "id": 2,
+      "name": "Celular",
+      "price": 2000,
+      "category": "Eletrônico"
+    },
+    {
+      "id": 3,
+      "name": "Açaí",
+      "price": 20,
+      "category": "Alimento"
+    }
+    
+  ]
 }
