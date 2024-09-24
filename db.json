@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Fone",
+      "name": "Fone topzeira",
       "price": 100,
       "category": "Eletrônico"
     },
@@ -18,6 +18,5 @@
       "price": 20,
       "category": "Alimento"
     }
-    
   ]
 }
