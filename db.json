@@ -17,6 +17,12 @@
       "name": "Açaí",
       "price": 20,
       "category": "Alimento"
+    },
+    {
+      "id": 4,
+      "name": "NoteBook",
+      "price": "1000",
+      "category": "Eletrônico"
     }
   ]
 }
